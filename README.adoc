@@ -2,3 +2,4 @@ mvn clean ----> Nettoie le terminale
 mvn compile ---> compile le fichier java .class
 mvn package ----> créer un fichier .jar
 java -jar target/tp_??-1.0.jar ----> excecute le fichier .jar créer grace a la commande ci-dessus.
+mvn javadoc:javadoc ---> créer la javadoc du fichier actuelle
